@@ -1,10 +1,15 @@
-This project allows multiple users to send emails using Python.
-It supports sending personalized emails to each recipient or sending the same message to multiple recipients at once.
+This project is a Python-based script for sending emails using Gmail's SMTP server. It supports single-user as well as multiple-user sending.
 
-The main features of this email as follows:
+The main features of the following:
 
-Send emails to one or many users.
+Send emails from Gmail using Python.
 
-Customize subject and body for each user.
+Works for a single recipient or multiple recipients.
 
-Supports Gmail SMTP for secure email sending.
+Supports plain text messages.
+
+Easy to configure and run.
+
+
+
+
